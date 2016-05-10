@@ -1,3 +1,3 @@
 # Animated-Profile-Card
 
-This is an simple animated responsive profile card using mostly CSS. Using @keyframes to animate and @mediaqueries to enable responsivity.
+This is one version of my responsive animated profile card. In this project I was looking more into the idea of 'less is more' more or less. Simple yet effective.  
